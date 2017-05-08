@@ -25,10 +25,9 @@ a {
 
 .card-image img {
   height: 60vh;
-  padding: 80px;
 }
 
-/*Books Page*/
+/*movies Page*/
 .nav-image img {
   height: 10vh;
 }
@@ -41,7 +40,7 @@ a {
   height: 32vh;
 }
 
-.nav-books {
+.nav-movies {
   background-color: LightGray;
 }
 
@@ -51,8 +50,8 @@ i.navc, .navc{
   padding-top: 3vh;
 }
 
-/*Add Book*/
-.add-book img {
+/*Add movie*/
+.add-movie img {
   height: 10vh;
 }
 
