@@ -80,3 +80,7 @@ i.navc, .navc{
 input:focus:invalid {
   outline: none;
 }
+
+.bgdown {
+  padding-top: 12px;
+}
